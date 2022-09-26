@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Demo-ZooSimulation" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="avd.jdm.les4.Main" />
+    <module name="Demo-ZooSimulation" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
